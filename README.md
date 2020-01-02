@@ -1,1 +1,1 @@
-# This repository is a collection of spider practice rode
+# This repository is a collection of spider practice code
